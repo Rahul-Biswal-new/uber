@@ -1,5 +1,5 @@
-import { StyleSheet } from "react-native";
-import { Text, View } from "@/components/Themed";
+import { StyleSheet, View, Text } from "react-native";
+// import { Text, View } from "@/components/Themed";
 import { StatusBar } from "expo-status-bar";
 
 export default function TabOneScreen() {
